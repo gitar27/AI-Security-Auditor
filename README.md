@@ -3,7 +3,7 @@
 
 An open-source, API-agnostic security gateway and automated evaluation dashboard designed to detect and mitigate the **OWASP Top 10 LLM Vulnerabilities (2025/2026)** in real-time.
 
-![Dashboard Screenshot](screenshots/dashboard_audit.png)
+![OWASP Security Dashboard](docs/YOUR_IMAGE_NAME.png)
 
 ## 🌟 Key Features
 - **In-Line Pre-Execution Guardrails:** Intercepts and blocks **Direct Prompt Injections (LLM01)** before reaching the model inference layer.
