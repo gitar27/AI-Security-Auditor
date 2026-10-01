@@ -22,5 +22,5 @@ An open-source, API-agnostic security gateway and automated evaluation dashboard
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-username/OWASP-LLM-Guardrail-Proxy.git](https://github.com/your-username/OWASP-LLM-Guardrail-Proxy.git)
+   git clone [https://github.com/gitar27/OWASP-LLM-Guardrail-Proxy.git](https://github.com/your-username/OWASP-LLM-Guardrail-Proxy.git)
    cd OWASP-LLM-Guardrail-Proxy
